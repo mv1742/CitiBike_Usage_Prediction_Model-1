@@ -12,13 +12,6 @@ Observations:
 We used the trip information (start and end patterns) to estimate the unique characteristics for the different clusters. We can identify that:
 - Cluster 0, 1, 2 have more morning trips.
 - Cluster 3, 4, 5 have more afternoon trips.
-  - Cluster 0 shows more 'start' trips in the morning and more ‘end’ trips in the afternoon. This corresponds to a mixed-use area. 
-  - Cluster 1 shows much more start trips than end trips in the morning and more end trips than start trips in the afternoon. This is a residential area away from the subway station where people take bikes in the morning and commute back in the afternoon.
-  -	Cluster 2  shows much more 'start' trips than ‘end’ in the morning and more 'end' than 'start' in the afternoon. This is a residential area.
-  - Cluster 3 'end' trips number are much larger than 'start' trips number in the morning but similar to it in the afternoon - a commercial area near a subway station.
-  -	Cluster 4 stations are similar to cluster 3 with the difference that there is a different empty station pattern at night. Empty at night would mean that these bikes were ridden at the end of the day, to commute back home to residential areas.
-  -	Cluster 5 stations are similar to cluster 3 and 4 with the difference that it is not empty during the day, so it is a busy commercial area.
-
 
 3. Citi bike station and the metro entrance 
 <img src="https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/Stations.jpg" width="500">
