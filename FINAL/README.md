@@ -1,4 +1,4 @@
-## FINAL DELIVERABLE
+## FINAL DELIVERABLES
 
 1. Final_Paper
 
