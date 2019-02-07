@@ -10,8 +10,8 @@
 
 Observations:
 We used the trip information (start and end patterns) to estimate the unique characteristics for the different clusters. We can identify that:
-- Cluster 0, 1, 2 are residential areas.
-- Cluster 3, 4, 5 are commercial areas.
+- Cluster 0, 1, 2 have more morning trips.
+- Cluster 3, 4, 5 have more afternoon trips.
   - Cluster 0 shows more 'start' trips in the morning and more ‘end’ trips in the afternoon. This corresponds to a mixed-use area. 
   - Cluster 1 shows much more start trips than end trips in the morning and more end trips than start trips in the afternoon. This is a residential area away from the subway station where people take bikes in the morning and commute back in the afternoon.
   -	Cluster 2  shows much more 'start' trips than ‘end’ in the morning and more 'end' than 'start' in the afternoon. This is a residential area.
