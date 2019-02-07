@@ -10,10 +10,10 @@
 
 
 3. End Count
-![gif](start.gif)
+<img src="https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/end.gif" width="500">
 
 4. Empty Count - Visualization of Empty Stations in Manhattan
-![gif](start.gif)
+<img src="https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/empty.gif" width="500">
 
 5. Source
 [Citibike_ADS_Final_Paper](https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/GIS%20image%20and%20file%20for%20images.zip)
