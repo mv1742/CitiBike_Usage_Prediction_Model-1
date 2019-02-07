@@ -6,10 +6,10 @@
 [Citibike_ADS_Final_Paper](https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/Citibike_ADS.pdf)
 
 2. Clustering Results - Six types of Citi Bike stations Vs. Residential population 
-<img src="https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/Clusters.png" width="500">
+<img src="https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/Clusters.jpg" width="500">
 
 3. Citi bike station and the metro entrance 
-<img src="https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/stations.png" width="500">
+<img src="https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/stations.jpg" width="500">
 
 4. Empty Count - Visualization of Empty Stations in Manhattan
 <img src="https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/empty.gif" width="500">
