@@ -6,7 +6,7 @@
 [Citibike_ADS_Final_Paper](https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/Citibike_ADS.pdf)
 
 2. Start Count - Visualization of Start Trips and Cluster Results
-![gif](start.gif)\includegraphics[width=50mm,scale=0.5]{method.eps}
+![gif](start.gif =250x250)
 
 3. End Count
 ![gif](start.gif)
