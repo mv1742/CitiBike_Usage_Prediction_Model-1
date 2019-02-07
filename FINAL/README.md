@@ -5,13 +5,11 @@
 1. Final_Paper (pdf):
 [Citibike_ADS_Final_Paper](https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/Citibike_ADS.pdf)
 
-2. Clustering Results - Six types of Citi Bike stations Vs. Residential population 
+2. Clustering Results - Six groups of Citi Bike stations Vs. Residential population 
 <img src="https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/Clusters.jpg" width="500">
 
 Observations:
-We used the trip information (start and end patterns) to estimate the unique characteristics for the different clusters. We can identify that:
-- Cluster 0, 1, 2 have more morning trips.
-- Cluster 3, 4, 5 have more afternoon trips.
+For the cluster groups, we used the trip information (start and end patterns) to estimate the unique characteristics for each different clusters.
 
 3. Citi bike station and the metro entrance 
 <img src="https://github.com/mv1742/CitiBike_Usage_Prediction_Model-1/blob/master/FINAL/Stations.jpg" width="500">
