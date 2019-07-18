@@ -4,12 +4,16 @@
 
 1. New Yorkers might realize that residential areas are busier in the morning and evening, while commerical areas are busier during midday.
 1. It can be observed that some groups residential areas are empty in the morning and commercial areas are empty at night.
+![image](./GIS_images/residential with citibike.jpg)
+** Figue 1. Residential Population and Citibike Trips
+![image](./GIS_images/working with citibike.jpg)
+** Figue 2. Working Population and Citibike Trips
 ![image](./Visualizations/empty.gif)
-** Figue 1. Empty Stations During the 24 Hours of the Day
+** Figue 3. Empty Stations During the 24 Hours of the Day **
 ![image](./Visualizations/end.gif)
-** Figue 2. Number of Ending Trips During the 24 Hours of the Day
+** Figue 4. Number of Ending Trips During the 24 Hours of the Day **
 ![image](./Visualizations/start.gif)
-** Figue 3. Number of Starting Trips During the 24 Hours of the Day
+** Figue 5. Number of Starting Trips During the 24 Hours of the Day ** 
 
 ## Table of Contents
 
@@ -19,8 +23,6 @@
 1. [Report](./Other/ADS_paper.pdf)
 1. [Repo directory structure](README.md#Repo-directory-structure)
 1. [Questions?](README.md#Questions?)
-
-
 
 # Problem
 
@@ -37,6 +39,7 @@ The essential difference between different citibike sites is the number of bikes
 
 ## Other Analysis
 Factors such as number of working and living population/gender/age are used to analyze the 24-hour start end number at different sites and the relationship between these factors. Found by the value of correlation, these factors have the greatest impact on which time period start and end.
+
 
 ## Repo directory structure
 
