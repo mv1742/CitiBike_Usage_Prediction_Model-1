@@ -41,6 +41,7 @@ Factors such as number of working and living population/gender/age are used to a
 ## Repo directory structure
 
 The directory structure looks like this:
+
     ├── README.md
     ├── Data
     ├── Clean_Data
@@ -50,5 +51,6 @@ The directory structure looks like this:
     ├── Visualizations
     ├── Other
         └── ADS_Paper.pdf
+        
 # Questions?
 Email me at mv1742@nyu.edu
