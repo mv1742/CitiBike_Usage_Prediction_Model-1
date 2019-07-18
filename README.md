@@ -5,7 +5,7 @@ This is the project in Applied Data Science. We will analyze the usage pattern a
 Use clustering technique to divide the groups of station having similar imbalances at different time
 of the year. This will allow to create a rebalancing strategy for the bike sharing operator
 
-## Objective
+## Results - Visualizations
 ![image](./Visualizations/empty.gif)
 ![image](./Visualizations/end.gif)
 ![image](./Visualizations/start.gif)
