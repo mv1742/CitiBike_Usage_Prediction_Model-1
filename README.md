@@ -60,7 +60,7 @@ The directory structure looks like this:
     ├── Other
         └── ADS_Paper.pdf
 
-# [Report]
+# Report
 
 [Link](./Other/ADS_paper.pdf)
 
