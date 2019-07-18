@@ -31,10 +31,10 @@ Factors such as number of working and living population/gender/age are used to a
 1. New Yorkers might realize that residential areas are busier in the morning and evening, while commerical areas are busier during midday.
 1. It can be observed that some groups residential areas are empty in the morning and commercial areas are empty at night.
 
-![image]('./GIS_files/GIS_images/residential with citibike.jpg')
+![image]('./GIS_files/GIS_images/residential.jpg')
 ** Figue 1. Residential Population and Citibike Trips
 
-![image]('./GIS_files/GIS_images/working with citibike.jpg')
+![image]('./GIS_files/GIS_images/working.jpg')
 ** Figue 2. Working Population and Citibike Trips
 
 ![image](./Visualizations/empty.gif)
