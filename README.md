@@ -5,9 +5,9 @@
 1. [Problem](README.md#Problem)
 1. [Data Wrangling](README.md#Data-Wrangling)
 1. [Modeling](README.md#Modeling)
-1. [Report](./Other/ADS_paper.pdf)
+1. [Discussion and Results](README.md#Discussion-and-Results)
+1. [Report](README.md#Report)
 1. [Repo directory structure](README.md#Repo-directory-structure)
-1. [Discussion and Results](README.md#Discussion and Results)
 1. [Questions?](README.md#Questions?)
 
 # Problem
@@ -46,7 +46,6 @@ Factors such as number of working and living population/gender/age are used to a
 ![image](./Visualizations/start.gif)
 ** Figue 5. Number of Starting Trips During the 24 Hours of the Day ** 
 
-
 ## Repo directory structure
 
 The directory structure looks like this:
@@ -60,6 +59,10 @@ The directory structure looks like this:
     ├── Visualizations
     ├── Other
         └── ADS_Paper.pdf
+
+# [Report]
+
+[Link](./Other/ADS_paper.pdf)
 
 # Questions?
 Email me at mv1742@nyu.edu
