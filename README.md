@@ -6,6 +6,6 @@ Use clustering technique to divide the groups of station having similar imbalanc
 of the year. This will allow to create a rebalancing strategy for the bike sharing operator
 
 ## Objective
-(!image)[./Visualizations/empty.gif]
-(!image)[./Visualizations/end.gif]
-(!image)[./Visualizations/start.gif]
+![image](./Visualizations/empty.gif)
+![image](./Visualizations/end.gif)
+![image](./Visualizations/start.gif)
